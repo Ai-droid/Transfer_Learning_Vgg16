@@ -9,3 +9,6 @@ Transfer learning vgg16.ipynb
 
 Step3: Loading the model created and using it for classfication - 
 Loading the model created.ipynb
+
+
+Follow me on linkedin- linkedin.com/in/abhinav-sharma-31b3b3144
