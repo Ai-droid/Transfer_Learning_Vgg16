@@ -11,6 +11,6 @@ Step3: Loading the model created and using it for classfication -
 Loading the model created.ipynb
 
 
-Ping me at linkedin- linkedin.com/in/abhinav-sharma-31b3b3144
+Ping me on - linkedin.com/in/abhinav-sharma-31b3b3144
 
 
